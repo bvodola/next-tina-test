@@ -1,6 +1,6 @@
 ---
 author: Siddhartha Mukherjee
-date: '2019-07-10T07:00:00.000Z'
+date: 0201-07-10T03:06:28.000Z
 hero_image: ../static/alfons-taekema-bali.jpg
 title: 'Bali —body, mind & soul'
 ---
