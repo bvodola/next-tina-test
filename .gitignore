@@ -4,3 +4,5 @@ node_modules
 out/
 .next/
 .DS_Store
+
+.now

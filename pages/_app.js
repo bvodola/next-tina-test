@@ -10,7 +10,7 @@ class MyApp extends App {
     this.cms = new TinaCMS({
       sidebar: {
         position: 'overlay',
-        hidden: process.env.NODE_ENV === 'production',
+        hidden: false,
       },
       apis: {
         git: client,
